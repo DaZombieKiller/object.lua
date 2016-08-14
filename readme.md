@@ -28,7 +28,7 @@ written by TheZombieKiller
 
 An object cannot contain a member named "self".  
 
-Usage of self.<member name> inside a member function is not necessary, as you can access the member directly, without using "self".  
+Usage of self.\<member name\> inside a member function is not necessary, as you can access the member directly, without using "self".  
 
 However, you can optionally use it anyway, because self is automatically assigned to the instance.
 
